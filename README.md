@@ -1,5 +1,5 @@
 # project_with_python
-1. Authentication a. The user should be able to sign-in to use the application. In case the user does not have an account, he/she should have to sign-up. 
+The user should be able to sign-in to use the application. In case the user does not have an account, he/she should have to sign-up. 
 the user should enter the username and password.
 
 Sign-up should require username, email address, password and confirm password fields from the user. 
@@ -15,7 +15,9 @@ The user should be able to sign-out of the application.
  
  
  The view should contain a task title, task label(s) and task priority. 
- b. The user should be able to edit each task. c.
- The user should also be able to delete a task. d. 
- The user should be able to create a new task in the list. When creating a new task, the user must enter a task title, task priority (Low, Medium or High) and can optionallyadd one or more labels against each task (Please note that you do not have to remove or update labels).
+ The user should be able to edit each task. 
+ The user should also be able to delete a task.  
+ The user should be able to create a new task in the list. When creating a new task, the user must enter a task title, task priority (Low, Medium or High) and can optionallyadd one or more labels against each task 
+ 
 
+![Screenshot (117)](https://user-images.githubusercontent.com/69013672/156912568-26fa6684-5015-4071-8a43-c92039cf4142.png)
